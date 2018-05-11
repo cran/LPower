@@ -1,0 +1,4 @@
+export("LPower","randomEffectsMatrix","randomSlopesMatrix")
+importFrom("stats", "approx", "as.formula", "na.omit", "pnorm",
+             "qnorm", "runif")
+importFrom("nlme", "gls", "corSymm", "varIdent")
