@@ -2,7 +2,7 @@ Package: LPower
 Type: Package
 Title: Calculates Power, Sample Size, or Detectable Effect for
         Longitudinal Analyses
-Version: 0.1.0
+Version: 0.1.1
 Author: David A. Schoenfeld
 Maintainer: David A. Schoenfeld <Dschoenfeld@mgh.harvard.edu>
 Imports: nlme, MASS,stats
@@ -11,6 +11,6 @@ License: Unlimited
 Encoding: UTF-8
 LazyData: true
 NeedsCompilation: no
-Packaged: 2018-05-11 13:29:10 UTC; das15
+Packaged: 2019-12-11 19:11:55 UTC; das15
 Repository: CRAN
-Date/Publication: 2018-05-11 14:03:26 UTC
+Date/Publication: 2019-12-11 19:30:02 UTC

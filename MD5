@@ -1,6 +1,7 @@
-dc5671aa775623da63d28610c95bd9af *DESCRIPTION
+3f70569a2f7ccfdfb35437fd4fd434a2 *DESCRIPTION
 4d545b129945f9cf05654c0d09f0dd8a *NAMESPACE
-e35508acbc38e9e330fd666e0fc628aa *R/powslopes_new1.R
+65d0e829911a3b05cbb61ec80817f0a9 *R/powslopes_new1.R
+65d0e829911a3b05cbb61ec80817f0a9 *R/powslopes_new2.R
 04c462b47364e44ed7dbf75e20d48584 *man/LPower.Rd
 0f78048051770e21d72cacddd5367b3d *man/randomEffectsMatrix.Rd
 5305790d784e3273095be774f91beceb *man/randomSlopesMatrix.Rd
